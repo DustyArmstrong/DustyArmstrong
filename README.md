@@ -9,6 +9,7 @@ Digital forensics by day, moonlighting as an amateur developer by evening (I'm i
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-%230175C2.svg?style=for-the-badge&logo=javascript&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23F05033.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-3DBC84.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%237F52FF.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
