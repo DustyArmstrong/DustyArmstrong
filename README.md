@@ -1,6 +1,6 @@
 ## Github Stats (Unimpressive but looks neat)
 
-![Dusty's GitHub stats](https://github-readme-stats.vercel.app/api?username=DustyArmstrong&show_icons=true&theme=radical)
+![Dusty's GitHub stats](https://pixel-profile.vercel.app/api/github-stats?username=DustyArmstrong&theme=road_trip&pixelate_avatar=false)
 
 # My Interests
 
